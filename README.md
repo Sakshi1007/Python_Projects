@@ -1,2 +1,4 @@
 # Python_Projects
-Some basic python projects made while learning python.
+**Created a word cloud**
+**Alarm clock**
+and mny different games.
